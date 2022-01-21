@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Will Gosnold
-- 👀 I’m interested in learning as much as I can about as much as I can.
-- 🌱 I’m currently learning machine learning and aritficial intelligence with python.
-- 💞️ I’m looking to collaborate on small projects to get myself started.
-- 📫 How to reach me: twitter @willgosnold
+Hi, I’m Will Gosnold!
+
+I'm just starting out on my software development journey, and have been learning coding from various online platforms over the last year.
+
+Here you can find some of the projects I've been working on to get an idea of where I'm currently at.
+If you want to contact me, you can reach out on Twitter @willgosnold
 
 <!---
 willgosnold/willgosnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
