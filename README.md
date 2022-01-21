@@ -1,4 +1,4 @@
-Hi, I’m Will Gosnold!
+## Hi, I’m Will Gosnold!
 
 - I'm just starting out on my software development journey, and have been learning coding from various online platforms over the last year.
 
