@@ -1,6 +1,6 @@
 ## Hi, I’m Will Gosnold!
 
-- I'm having a great time on my software development journey, and have been teaching myself coding from various online resources over the couple of years.
+- I'm having a great time on my data science and software development journey, and have been teaching myself coding from various online resources over the couple of years.
 
 - Here you can find some of the projects I've been working on to get an idea of where I'm currently at.
 
