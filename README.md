@@ -1,4 +1,5 @@
-![github_banner](https://user-images.githubusercontent.com/90176365/213819647-da4cb7b9-f2ee-4997-bba8-73177667d0e9.jpeg)
+![banner](https://user-images.githubusercontent.com/90176365/213821560-8bf59b55-0e17-4051-919d-4625f27259e0.jpeg)
+
 
 - [x] Full Stack Data Scientist
 - [x] Passion for learning
