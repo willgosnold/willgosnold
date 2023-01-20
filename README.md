@@ -2,7 +2,7 @@
 
 
 - [x] Full Stack Data Scientist
-- [x] Passion for learning
+- [x] Passionate about learning
 - [x] Open source enthusiast
 - [x] Career changer
 
@@ -10,7 +10,7 @@
 
 #### If you want to contact me, you can reach out on Twitter @willgosnold
 
-#### Would love to contribute to some open source projects, so please, get in touch if you would like some contributions to your project!
+#### I would love to contribute to some open source projects, so please, get in touch if you would like some contributions to your project!
 
 <!---
 willgosnold/willgosnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
